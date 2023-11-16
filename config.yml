@@ -30,6 +30,7 @@ params:
   mainSections:
     - blog
     - writeups
+    - docs
 
   author: 0xprune
   ShowReadingTime: true
@@ -75,6 +76,8 @@ params:
           url: blog
         - name: Writeups
           url: writeups
+        - name: Docs
+          url: docs
 
 # Social
   socialIcons:
@@ -82,14 +85,14 @@ params:
       url: "https://matrix.to/#/@0xprune:matrix.org"
     - name: github
       url: "https://github.com/0xprune"
-    - name: mastodon
-      url: "https://infosec.exchange/@0xprune"
+    #- name: linkedin
+    #  url: "https://www.linkedin.com/in/eky-januarta-aaa3a61aa/"
     - name: twitter
       url: "https://x.com/prune0x"
-    # - name: discord
-    #   url: "https://discordapp.com/users/529270835341426708"
-    # - name: telegram
-    #   url: "https://t.me/hiirvki"
+    #- name: discord
+    #  url: "https://discordapp.com/users/287258469017321472"
+    #- name: telegram
+    #  url: "https://t.me/prune0x"
     # - name: xmpp => There is a bug in the URL, when using `xmpp:` as a protocol in the URL, it will be converted to http://xmpp:0xprune@yourdataforsale which results in 404.
     #   url: "xmpp:0xprune@yourdata.forsale"
     - name: email
@@ -134,8 +137,8 @@ menu:
     - name: Archives
       url: /archives/
       weight: 1
-    - name: Tags
-      url: /tags/
+    - name: Contact
+      url: /contact/
       weight: 2
     - name: Search
       url: /search/
@@ -143,9 +146,6 @@ menu:
     - name: About
       url: /about/
       weight: 4
-    - name: Alt
-      url: https://0xprune.com/
-      weight: 5
 
 # Taxonomies
 taxonomies:
