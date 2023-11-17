@@ -137,8 +137,8 @@ menu:
     - name: Archives
       url: /archives/
       weight: 1
-    - name: Contact
-      url: /contact/
+    - name: Tags
+      url: /tags/
       weight: 2
     - name: Search
       url: /search/
