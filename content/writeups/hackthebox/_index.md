@@ -1,7 +1,8 @@
 ---
 title: Hack The Box
 summary: My solutions to the challenges in HTB platform.
-description: "Hack The Box (HTB) is an innovative online platform designed for cybersecurity enthusiasts to enhance their skills. With a user-friendly interface, it offers virtual labs and challenges, allowing users to practice ethical hacking and penetration testing in a realistic environment. The platform encourages skill development through hands-on experience and provides a supportive community for users at all levels.<br>🔗 **https://hackthebox.com/**<br> "
+description: "Hack The Box (HTB) is an innovative online platform designed for cybersecurity enthusiasts to enhance their skills. With a user-friendly interface, it offers virtual labs and challenges, allowing users to practice ethical hacking and penetration testing in a realistic environment.
+<br>🔗 **https://hackthebox.com**<br>"
 type: list
 ShowRssButtonInSectionTermList: true
 ShowFullTextinRSS: true
