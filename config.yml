@@ -65,7 +65,7 @@ params:
 # profile-mode
   profileMode:
       enabled: true # needs to be explicitly set
-      title: イーキー・ジャヌアルタ
+      title: えき
       subtitle: "_Astra inclinant, sed non obligant._"
       imageUrl: "/images/avatar.webp"
       imageWidth: 120
