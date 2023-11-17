@@ -77,7 +77,7 @@ params:
         - name: Writeups
           url: writeups
         - name: Docs
-          url: docs
+          url: https://docs.0xprune.xyz
 
 # Social
   socialIcons:
