@@ -1,15 +1,8 @@
 # Basic Information
-<<<<<<< HEAD
 baseURL: "https://0xprune.xyz"
-languageCode: en-us
+languageCode: "en-us"
 title: "0xprune's Lab"
 theme: Kamigo
-=======
-baseURL: "https://0xprune.xyz/"
-languageCode: en-us
-title: "0xprune's Lab"
-theme: PaperMod
->>>>>>> e3ba44b816af620a29c4bbde7ba29301633c979e
 copyright: '&copy; 2023 [0xprune.xyz](https://0xprune.xyz) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
 
 enableRobotsTXT: true
