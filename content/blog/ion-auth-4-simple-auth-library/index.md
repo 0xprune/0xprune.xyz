@@ -2,9 +2,9 @@
 title: "Hello World!"
 description: "Yet another blog."
 summary: "Yet another blog."
-date: 2023-09-03T21:48:44+07:00
+date: 2023-11-17T21:48:44+07:00
 draft: false
-author: "Hiiruki" # ["Me", "You"] # multiple authors
+author: "0xprunee" # ["Me", "You"] # multiple authors
 tags: ["random", "misc", "hello-world", "SSG"]
 canonicalURL: ""
 showToc: true
