@@ -11,7 +11,7 @@
 
 /* TEAM */
 
-Hiiruki
+0xprune
 - Site    : https://0xprune.xyz/ 
 - Contact : https://0xprune.xyz/about
 - GitHub  : https://github.com/0xprune
