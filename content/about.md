@@ -38,7 +38,7 @@ Started this blog to remember what I learn—because, let's be real, I tend to f
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - 0xprune @ [Rizon](https://www.rizon.net/)<br>
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - 0xprune @ [tilde.chat](https://tilde.chat/)<br>
 
-📧 [E-mail](mailto:h%69&#64;h&#105;&#105;ru&#107;&#105;&#46;&#100;ev)
+📧 [E-mail](mailto:ekyjanuarta@outlook.com)
 
 <details>
 <summary> 🔑 PGP Public Key </summary>
