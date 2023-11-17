@@ -31,9 +31,9 @@ Started this blog to remember what I learn—because, let's be real, I tend to f
 
 ### Contacts:
 
-💬 [Matrix](https://matrix.to/#/@hiiruki:matrix.org "@hiiruki:matrix.org")<br>
+💬 [Matrix](https://matrix.to/#/@0xprune:matrix.org "@0xprune:matrix.org")<br>
 💬 [Session](https://getsession.org/) - [Session ID](/session.txt "Session ID: 055b210e9f97217abf1872ed98af29640d9f5194847352975a6e9a3ea301683602")<br>
-💬 [XMPP](https://en.wikipedia.org/wiki/XMPP "XMPP @ Wikipedia") - [hiiruki@yourdata.forsale](xmpp:hiiruki@yourdata.forsale)
+💬 [XMPP](https://en.wikipedia.org/wiki/XMPP "XMPP @ Wikipedia") - [0xprune@yourdata.forsale](xmpp:0xprune@yourdata.forsale)
 
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - 0xprune @ [Libera.Chat](https://libera.chat/)<br>
 📡 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC @ Wikipedia") - 0xprune @ [Rizon](https://www.rizon.net/)<br>
@@ -45,7 +45,7 @@ Started this blog to remember what I learn—because, let's be real, I tend to f
 <summary> 🔑 PGP Public Key </summary>
 
 ```shell
-curl -sL https://hiiruki.dev/pgp | gpg --import
+curl -sL https://0xprune.xyz/pgp.txt | gpg --import
 
 # Fingerprint: [0xAF5886C8] • AEA5 B927 D7F0 D40B F4B3  C9F1 E40D 7521 AF58 86C8
 ```
@@ -57,31 +57,12 @@ curl -sL https://hiiruki.dev/pgp | gpg --import
 <summary> 🔑 SSH Public Key </summary>
 
 ```shell
-curl -sL https://hiiruki.dev/ssh | tee -a ~/.ssh/authorized_keys
+curl -sL https://0xprune.dev/ssh | tee -a ~/.ssh/authorized_keys
 
 # Fingerprint: SHA256:uxJNkKzML7tBYwYdjzviimi/Nw4Nd8ghFpl2MOrYLnw
 ```
 
 [ssh.txt](/ssh.txt)
-</details>
-
-<details>
-<summary> 🔑 OMEMO Fingerprint </summary>
-
-```
-F1085BD5 D359788F 05F936D8 3185A5BE
-75B227FE DE4E6909 9433113B DFE4D722
-```
-
-</details>
-
-<details>
-<summary> 🔑 OTR Fingerprint </summary>
-
-```
-147B3144 705DADC6 E30F10D4 58EE07ED C9BFE1A6
-```
-
 </details>
 
 <br>
