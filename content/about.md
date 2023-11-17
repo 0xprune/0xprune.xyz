@@ -26,7 +26,6 @@ blockchain, cryptocurrency, nft, airdrop, testnet, node validator, trading, stoc
 
 Started this blog to remember what I learn—because, let's be real, I tend to forget things. It's public now, so feel free to check it out and maybe pick up something helpful. Sharing is caring, right? 💜
 
-
 <br>
 
 ### Contacts:
@@ -45,7 +44,7 @@ Started this blog to remember what I learn—because, let's be real, I tend to f
 <summary> 🔑 PGP Public Key </summary>
 
 ```shell
-curl -sL https://0xprune.xyz/pgp.txt | gpg --import
+curl -sL https://0xprune.xyz/pgp | gpg --import
 
 # Fingerprint: [0xAF5886C8] • AEA5 B927 D7F0 D40B F4B3  C9F1 E40D 7521 AF58 86C8
 ```
@@ -59,7 +58,7 @@ curl -sL https://0xprune.xyz/pgp.txt | gpg --import
 ```shell
 curl -sL https://0xprune.dev/ssh | tee -a ~/.ssh/authorized_keys
 
-# Fingerprint: SHA256:uxJNkKzML7tBYwYdjzviimi/Nw4Nd8ghFpl2MOrYLnw
+# Fingerprint: SHA256:YKI6/LnbFucIdfWFj8kT5i+r5ugMbyNj4lUW/UFRi5w
 ```
 
 [ssh.txt](/ssh.txt)

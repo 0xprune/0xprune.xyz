@@ -1,0 +1,46 @@
+/* Hey, you found this stuff (⊙＿⊙') */
+
+
+ ██████╗ ██╗  ██╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗███████╗
+██╔═████╗╚██╗██╔╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔════╝
+██║██╔██║ ╚███╔╝ ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╗  
+████╔╝██║ ██╔██╗ ██╔═══╝ ██╔══██╗██║   ██║██║╚██╗██║██╔══╝  
+╚██████╔╝██╔╝ ██╗██║     ██║  ██║╚██████╔╝██║ ╚████║███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+                    https://0xprune.xyz
+
+/* TEAM */
+
+Hiiruki
+- Site    : https://0xprune.xyz/ 
+- Contact : https://0xprune.xyz/about
+- GitHub  : https://github.com/0xprune
+
+/* SITE */
+
+Languages:
+- English (EN)
+- Indonesia (ID)
+
+Technologies:
+- Standards  : HTML, CSS, JavaScript, Markdown
+- Frameworks : Hugo
+- IDE        : Visual Studio Code
+- Hosting    : Netlify, Domainesia, GitHub
+- OS         : Windows 11, Ubuntu, Kali Linux
+
+/* THANKS */
+
+- Hugo [https://gohugo.io/]
+- Netlify [https://www.netlify.com/]
+- Domainesia [https://domainesia.com]
+- GitHub [https://github.com/]
+- MDN Web Docs by Mozilla [https://developer.mozilla.org/en-US/]
+- WebDev by Google [https://web.dev/]
+- JSFiddle [https://jsfiddle.net/]
+- Email Obfuscator [https://www.albionresearch.com/tools/obfuscator]
+- Kamigo [https://github.com/hiiruki/hugo-Kamigo]
+- Hiiruki
+
+The humans responsible & technology colophon
+[http://humanstxt.org]
