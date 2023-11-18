@@ -40,6 +40,7 @@ CodeIgniter is known for its simplicity and flexibility, but setting up a robust
 
 ## Introduction
 IonAuth is simple and lightweight authentication on CodeIgniter, its develop by [Ben Edmunds](http://benedmunds.com/). Until this article is published, IonAuth has already released version 4. In this version, IonAuth has made numerous positive changes to the library by adding several features and removing outdated ones to integrate seamlessly with the latest version of CodeIgniter.
+
 IonAuth is a quite popular library, as evidenced by its GitHub stats: they have garnered 💜 1.2k forks and ⭐ 2.3k stars. These numbers underscore IonAuth's widespread adoption, with a substantial user base and active contributions.
 
 ![Github IonAuth](./images/github-ionauth.webp#center)
