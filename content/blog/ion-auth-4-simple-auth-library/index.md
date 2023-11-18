@@ -1,8 +1,8 @@
 ---
 title: "IonAuth: Simple and Lightweight Auth Library"
 description: "Easy way to learn IonAuth for CodeIgniter"
-summary: "Yet another blog."
-date: 2023-11-18T21:48:44+07:00
+summary: "Easy way to learn IonAuth for CodeIgniter"
+date: 2023-11-17T21:48:44+07:00
 draft: false
 author: "0xprunee" # ["Me", "You"] # multiple authors
 tags: ["secure-coding", "php", "library"]
