@@ -35,23 +35,19 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
-
+## Overview
 CodeIgniter is known for its simplicity and flexibility, but setting up a robust authentication system can be a challenge. In this article, we'll explore IonAuth, a tailored authentication library. Discover its features, integration ease, and the added security it brings to CodeIgniter applications.
 
 ## Introduction
-
 IonAuth is simple and lightweight authentication on CodeIgniter, its develop by [Ben Edmunds](http://benedmunds.com/). Until this article is published, IonAuth has already released version 4. In this version, IonAuth has made numerous positive changes to the library by adding several features and removing outdated ones to integrate seamlessly with the latest version of CodeIgniter.
-
 IonAuth is a quite popular library, as evidenced by its GitHub stats: they have garnered 💜 1.2k forks and ⭐ 2.3k stars. These numbers underscore IonAuth's widespread adoption, with a substantial user base and active contributions.
 
 ![Github IonAuth](./images/github-ionauth.webp#center)
 
 ### License
-
 Ion Auth is released under the Apache License v2.0. You can read the license here: http://www.apache.org/licenses/LICENSE-2.0
 
 ### Feature
-
 Some of the features introduced by IonAuth 4 include:
 - Bringing several hashing methods, such as bcrypt (default), and argon2.
 - Offering a variety of template options, including templates for login, register, forgot password, email activation, etc.
@@ -59,10 +55,7 @@ Some of the features introduced by IonAuth 4 include:
 For more details, you can read further on https://github.com/benedmunds/CodeIgniter-Ion-Auth/blob/4/USERGUIDE.md.
 
 ## Steps
-<aside>
-💡 System requirements: before install Ion Auth 4, we needs **CodeIgniter 4** and **PHP**≥**7.2**.
-
-</aside>
+<aside>💡 System requirements: before install Ion Auth 4, we needs **CodeIgniter 4** and **PHP**≥**7.2**.</aside>
 
 ### Manual Installation
 1. Download the latest version: https://github.com/benedmunds/CodeIgniter-Ion-Auth/zipball/4
@@ -73,32 +66,24 @@ For more details, you can read further on https://github.com/benedmunds/CodeIgni
     ```
     $ php spark migrate:latest -n IonAuth
     ```
-    
 5. Insert default data (Don't forget to set Config\Migrations:enabled to true.) 
-
 **Windows :**
-
 ```
 $ php spark db:seed IonAuth\Database\Seeds\IonAuthSeeder
 ```
-
 **Linux :**
-
 ```jsx
 $ php spark db:seed IonAuth\\Database\\Seeds\\IonAuthSeeder
 ```
 
 ### Composer Installation
 For an existing composer project:
-
 ```
 $ composer config minimum-stability dev
 $ composer config repositories.ionAuth vcs git@github.com:benedmunds/CodeIgniter-Ion-Auth.git
 $ composer require benedmunds/codeigniter-ion-auth:4.x-dev
 ```
-
 For a new project:
-
 ```jsx
 $ composer init
 $ composer config minimum-stability dev
@@ -108,7 +93,6 @@ $ composer require benedmunds/codeigniter-ion-auth:4.x-dev
 
 ## How to use
 The simplest way to use it is by calling the IonAuth library into the controller, for example:
-
 ```php
 /**
  * Class Auth
@@ -184,17 +168,16 @@ public function login()
 ```
 You can explore IonAuth further and customize it according to your preferences. Learn more about it at https://github.com/benedmunds/CodeIgniter-Ion-Auth/blob/4/USERGUIDE.md.
 
-## **Support**
+## Support
 The IonAuth developer, benemuds, welcomes contributions from those who find bugs in the library. You can visit [IonAuth issues](https://github.com/benedmunds/CodeIgniter-Ion-Auth/issues) to report issues.
 If you need customization or assistance with implementing IonAuth in your company, you can directly contact [their email](mailto:ionauth_support_contract@benedmunds.com).
 Don't forget to give a ⭐ on the official IonAuth GitHub repository as a token of appreciation and support for the work.
 
-## **Conclusion**
+## Conclusion
 IonAuth is an alternative library that you can use when building web applications with the CodeIgniter framework. Apart from providing speed, it is also very easy to understand. Feel free to explore it in more detail on your own.
 
 See you in the next article! 
 
-## References:
+## References
 - https://github.com/benedmunds/CodeIgniter-Ion-Auth
 - http://benedmunds.com/ion_auth/
-
