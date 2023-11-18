@@ -56,26 +56,25 @@ Some of the features introduced by IonAuth 4 include:
 For more details, you can read further on https://github.com/benedmunds/CodeIgniter-Ion-Auth/blob/4/USERGUIDE.md.
 
 ## Steps
-<aside>💡 System requirements: before install Ion Auth 4, we needs **CodeIgniter 4** and **PHP**≥**7.2**.</aside>
+> 💡 System requirements: before install Ion Auth 4, we needs **CodeIgniter 4** and **PHP**≥**7.2**.
 
 ### Manual Installation
 1. Download the latest version: https://github.com/benedmunds/CodeIgniter-Ion-Auth/zipball/4
 2. Copy the files from this package to the correspoding folder in your application folder. For example, copy IonAuth/Config/IonAuth.php to app/Config/IonAuth.php.
 3. You can also copy the entire directory structure into your ThirdParty/ folder. For example, copy everything to app/ThirdParty/IonAuth/
-4. Use the migration file (in Database/Migrations/)
-    
+4. Use the migration file (in Database/Migrations/) 
     ```
     $ php spark migrate:latest -n IonAuth
     ```
 5. Insert default data (Don't forget to set Config\Migrations:enabled to true.) 
-**Windows :**
-```
-$ php spark db:seed IonAuth\Database\Seeds\IonAuthSeeder
-```
-**Linux :**
-```jsx
-$ php spark db:seed IonAuth\\Database\\Seeds\\IonAuthSeeder
-```
+   **Windows :**
+    ```
+    $ php spark db:seed IonAuth\Database\Seeds\IonAuthSeeder
+    ```
+   **Linux :**
+    ```jsx
+    $ php spark db:seed IonAuth\\Database\\Seeds\\IonAuthSeeder
+    ```
 
 ### Composer Installation
 For an existing composer project:
