@@ -25,11 +25,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/cover.webp" # image path/url
-    alt: "Cover: IonAuth: Simple and Lightweight Auth Library" # alt text
-    caption: "IonAuth: Simple and Lightweight Auth Library" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    #image: "images/cover.webp" # image path/url
+   # alt: "Cover: IonAuth: Simple and Lightweight Auth Library" # alt text
+    #caption: "IonAuth: Simple and Lightweight Auth Library" # display caption under cover
+   # relative: false # when using page bundles set this to true
+    #hidden: false # only hide on current single page
 # editPost:
 #     URL: ""
 #     Text: "Suggest Changes" # edit text
