@@ -3,10 +3,6 @@ title: About
 description: $ cat /home/about
 hidemeta: true
 ---
-
-> "Information is power. But like all power, there are those who want to keep it for themselves."
-— [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz "Aaron Swartz @ Wikipedia")
-
 <details>
 <summary> <code>$ whoami</code> </summary>
 Hi! I'm <code>echo 'RWt5IEphbnVhcnRh' | base64 --decode</code> 👋
@@ -25,7 +21,6 @@ blockchain, cryptocurrency, nft, airdrop, testnet, node validator, trading, stoc
 </details><br>
 
 Started this blog to remember what I learn—because, let's be real, I tend to forget things. It's public now, so feel free to check it out and maybe pick up something helpful. Sharing is caring, right? 💜
-
 <br>
 
 ### Contacts:
