@@ -4,7 +4,7 @@ description: "Easy way to learn IonAuth for CodeIgniter"
 summary: "Easy way to learn IonAuth for CodeIgniter"
 date: 2023-11-17T21:48:44+07:00
 draft: false
-author: "0xprunee" # ["Me", "You"] # multiple authors
+author: "0xprune" # ["Me", "You"] # multiple authors
 tags: ["secure-coding", "php", "library"]
 canonicalURL: ""
 showToc: true
@@ -171,7 +171,8 @@ You can explore IonAuth further and customize it according to your preferences. 
 ## Support
 The IonAuth developer, benemuds, welcomes contributions from those who find bugs in the library. You can visit [IonAuth issues](https://github.com/benedmunds/CodeIgniter-Ion-Auth/issues) to report issues.
 If you need customization or assistance with implementing IonAuth in your company, you can directly contact [their email](mailto:ionauth_support_contract@benedmunds.com).
-Don't forget to give a ⭐ on the official IonAuth GitHub repository as a token of appreciation and support for the work.
+
+Don't forget to give a ⭐ on the official IonAuth GitHub repository as a appreciation and support for his work.
 
 ## Conclusion
 IonAuth is an alternative library that you can use when building web applications with the CodeIgniter framework. Apart from providing speed, it is also very easy to understand. Feel free to explore it in more detail on your own.
