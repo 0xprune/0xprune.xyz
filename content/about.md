@@ -25,6 +25,9 @@ Started this blog to remember what I learn—because, let's be real, I tend to f
 
 ### Contacts:
 
+💼 [Linkedin](https://www.linkedin.com/in/eky-januarta-aaa3a61aa/)<br>
+🐤 [Twitter](https://twitter.com/prune0x)<br>
+
 💬 [Matrix](https://matrix.to/#/@0xprune:matrix.org "@0xprune:matrix.org")<br>
 💬 [Session](https://getsession.org/) - [Session ID](/session.txt "Session ID: 055b210e9f97217abf1872ed98af29640d9f5194847352975a6e9a3ea301683602")<br>
 💬 [XMPP](https://en.wikipedia.org/wiki/XMPP "XMPP @ Wikipedia") - [0xprune@yourdata.forsale](xmpp:0xprune@yourdata.forsale)
